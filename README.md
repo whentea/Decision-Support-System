@@ -1,2 +1,3 @@
 # Decision-Support-System
-let's talk about this one !
+
+Hi what's up ... long time no see, let's talk about DSS !
